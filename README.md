@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Eric Calabria </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-<img scr="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Eric+Calabria+Fernández..🧑‍💼;++;Front-End||Back-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3">
+<img src="https://readme-typing-svg.herokuapp.com font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Eric+Calabria+Fernández..🧑‍💼;++;Front-End||Back-End+Developer,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3">
 </p>
 
 
