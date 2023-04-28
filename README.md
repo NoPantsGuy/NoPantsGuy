@@ -78,7 +78,7 @@
 <div align="center">
 
 <a href="https://github.com/NoPantsGuy/">
-![GitHub Stats NoPantsGuy](https://github-readme-stats.vercel.app/api?username=NoPantsGuy&show_icons=true&theme=radical)](https://github.com/NoPantsGuy)
+![NoPantsGuy GitHub Stats](https://github-readme-stats.vercel.app/api?username=nopantsguy&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoPantsGuy&langs_count=5&layout=compact&theme=radical&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000&card_width=350)](https://github.com/NoPantsGuy)
 
 </a>
